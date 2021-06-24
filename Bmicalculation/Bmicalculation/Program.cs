@@ -1,36 +1,62 @@
-﻿using System;
+using System;
 
 namespace Bmicalculation
 {
-    class Program
+    class checkMyBmi
+
     {
-        static void Main(string[] args)
+        private int kg;//kilogram
+        private double m;//meters
+        private double bmi;//body mass index 
+
+        public int Weight_Kg
         {
-            Console.WriteLine("BMI Calculator");
-            Console.WriteLine();
+            set { this.kg = value; }
+            get { return this.kg; }
+        }
 
-            Console.Write("Weight in kg: ");
-            int kg;
-            kg = Convert.ToInt32(Console.ReadLine());
+        public double Height_M
+        {
+            set { this.m = value; }
+            get { return this.m; }
+        }
 
-            Console.Write("Height in cm: ");
-            double m;
-            m = Convert.ToDouble(Console.ReadLine());
+
+        public double  CalculateBmi
+        {
+       
 
             //calculation of BMI
-            double BMI;
-            BMI = kg / m * 2;
+            double bmi;
+            bmi = Weight_Kg / Height_M * 2;
 
-            if (BMI < 18.5 )
-            { Console.WriteLine("-> Underweight"); }
-            if (BMI >=19 & BMI <= 24)
-            { Console.WriteLine("-> Healthy"); }
-            if (BMI >=25)
-            { Console.WriteLine("-> Overweight"); }
+            if (bmi < 18.5)
+            { Console.WriteLine(" Underweight"); }
+            if (bmi >= 19 & bmi <= 24)
+            { Console.WriteLine("Healthy"); }
+            if (bmi >= 25)
+            { Console.WriteLine("Overweight"); }
 
-           
 
-          
         }
-    }
+ }
+            
+
+
+
+
+        class StartPoint
+        {
+             static void Main(string[] args)
+                {
+                    checkMyBmi person = new checkMyBmi();
+                     Console.WriteLine("BMI Calculator");
+                     Console.WriteLine("Weight in kg: ");
+                     Weight_kg = Convert.ToInt32(Console.ReadLine());
+                     Console.Write("Height in cm: ");
+                     Height_M = Convert.ToDouble(Console.ReadLine());
+                          person.CalculateBmi();
+
+                 }
+        }
 }
