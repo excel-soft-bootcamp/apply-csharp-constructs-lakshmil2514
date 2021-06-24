@@ -1,0 +1,13 @@
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.exe
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.deps.json
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.dll
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\bin\Debug\netcoreapp3.1\Bmicalculation.pdb
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.dll
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.pdb
+C:\Users\lakshmi.l\source\repos\Bmicalculation\Bmicalculation\obj\Debug\netcoreapp3.1\Bmicalculation.genruntimeconfig.cache
