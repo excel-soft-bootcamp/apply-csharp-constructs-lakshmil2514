@@ -7,11 +7,11 @@ namespace Inheritance
     class TeacherID : IDCardDetails
     {
 
-        private string _teachername;
+        private string _dept;
 
-        public TeacherID (string ID,string name,string address):base (ID,address)
+        public TeacherID (string ID,string dept,string address):base (ID,address)
         {
-            this._teachername = name;
+            this._dept = dept;
             
         }
 
