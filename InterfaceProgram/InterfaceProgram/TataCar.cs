@@ -4,12 +4,7 @@ using System.Text;
 
 namespace InterfaceProgram
 {
-    public interface Iengine
-    {
-        void Start();
-        void Stop();
-
-    }
+    
     public class TataCar
     {
         Iengine _engine;
@@ -31,6 +26,13 @@ namespace InterfaceProgram
             _engine.Stop();
         }
 
+
+    }
+    
+     public interface Iengine
+    {
+        void Start();
+        void Stop();
 
     }
    
