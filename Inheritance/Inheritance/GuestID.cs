@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Inheritance
 {
-    class GuestID : Collegemember
+    class GuestID : IdCardDetails
     {
         private string _Guestname;
         public GuestID(string ID,string name,string address): base(ID,address)
