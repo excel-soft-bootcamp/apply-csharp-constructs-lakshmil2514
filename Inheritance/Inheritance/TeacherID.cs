@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Inheritance
 {
-    class TeacherID : Collegemember
+    class TeacherID : IDCardDetails
     {
 
         private string _teachername;
