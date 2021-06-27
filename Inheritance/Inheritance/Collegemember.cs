@@ -3,7 +3,7 @@
 namespace Inheritance
 
 {
-    class Collegemember
+    class abstract Collegemember
     {
         private string _ColgCode;
         private string _Address;
