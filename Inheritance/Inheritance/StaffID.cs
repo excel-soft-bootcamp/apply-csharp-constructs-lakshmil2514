@@ -6,11 +6,11 @@ namespace Inheritance
 {
     class StaffID : IdCardDetails
     {
-        private string _staffName;
+        private string _designation;
        
-        public StaffID(string ID,string name,string address) : base(ID,address)
+        public StaffID(string ID,string designation,string address) : base(ID,address)
         {
-            this._staffName = name;
+            this._designation =designation;
            
         }
     }
