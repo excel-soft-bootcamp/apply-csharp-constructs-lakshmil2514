@@ -1,0 +1,12 @@
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp2.1\InterfaceProgram.deps.json
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp2.1\InterfaceProgram.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp2.1\InterfaceProgram.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp2.1\InterfaceProgram.dll
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\bin\Debug\netcoreapp2.1\InterfaceProgram.pdb
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.dll
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.pdb
+C:\Users\lakshmi.l\source\repos\InterfaceProgram\InterfaceProgram\obj\Debug\netcoreapp2.1\InterfaceProgram.genruntimeconfig.cache
