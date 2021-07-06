@@ -1,9 +1,0 @@
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\bin\Debug\netcoreapp2.1\InputReaderLib.deps.json
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\bin\Debug\netcoreapp2.1\InputReaderLib.dll
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\bin\Debug\netcoreapp2.1\InputReaderLib.pdb
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.csprojAssemblyReference.cache
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.AssemblyInfoInputs.cache
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.AssemblyInfo.cs
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.csproj.CoreCompileInputs.cache
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.dll
-C:\Users\lakshmi.l\source\repos\BMICaculationProgram\InputReaderLib\obj\Debug\netcoreapp2.1\InputReaderLib.pdb

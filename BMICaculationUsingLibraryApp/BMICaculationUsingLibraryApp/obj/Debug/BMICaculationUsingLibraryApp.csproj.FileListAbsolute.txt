@@ -1,0 +1,17 @@
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.exe.config
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.exe
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMIValueValidatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\ConsoleUserInputReaderLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\PatientDetailsLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMIValueValidatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\ConsoleUserInputReaderLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\bin\Debug\PatientDetailsLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationUsingLibraryApp.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationUsingLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.exe
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.pdb
