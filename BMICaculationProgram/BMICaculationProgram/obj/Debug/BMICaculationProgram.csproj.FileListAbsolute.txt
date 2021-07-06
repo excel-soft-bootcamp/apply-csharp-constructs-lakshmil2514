@@ -1,0 +1,7 @@
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.exe.config
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.exe
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\bin\Debug\BMICaculationProgram.pdb
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.exe
+C:\Users\lakshmi.l\source\repos\BMICaculationProgram\BMICaculationProgram\obj\Debug\BMICaculationProgram.pdb
