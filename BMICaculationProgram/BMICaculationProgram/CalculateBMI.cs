@@ -27,7 +27,7 @@ namespace BMICaculationProgram
         public int CalculateResult(int result)
         {
 
-            return result = weight / height;
+            InputReaderLib.Class1.CalculateResult();
 
         }
 
