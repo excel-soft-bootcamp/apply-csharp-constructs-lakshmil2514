@@ -3,3 +3,9 @@ C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICa
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationProgram\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-lakshmil2514\BMICaculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb
