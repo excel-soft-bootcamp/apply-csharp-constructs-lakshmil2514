@@ -13,10 +13,10 @@ namespace BMICaculationProgram
             float userHeight= ConsoleUserInputReaderLib.ConsoleUserInputReaderType.ReadHeightOfUser();
             float userWeight = ConsoleUserInputReaderLib.ConsoleUserInputReaderType.ReadWeightOfUser();
 
-            float userHeightvalue = PatientDetailsLib.PatientDetailsType.SetHeightValue(userHeight);
-            float userWeightValue = PatientDetailsLib.PatientDetailsType.SetWeightValue(userWeight);
+            float patientHeight = PatientDetailsLib.PatientDetailsType.SetHeightValue(userHeight);
+            float patientWeight = PatientDetailsLib.PatientDetailsType.SetWeightValue(userWeight);
 
-            float bmiValue = BMICalculatorLib.BMICalculatorType.CalculateBMI(userWeightValue,userHeightvalue );
+            float bmiValue = BMICalculatorLib.BMICalculatorType.CalculateBMI(patientWeight,patientHeight);
 
             string consoleMessage = BMIValueValidatorLib.BMIValueValidatorType.ValidateBMIValue(bmiValue);
 
