@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D8909D2E-587C-4BE6-804D-B982F6C2202B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>BMICaculationProgram</RootNamespace>
+    <AssemblyName>BMICaculationProgram</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChooseOption.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BMICalculatorLib\BMICalculatorLib.csproj">
+      <Project>{1372d898-9f81-4d67-bed7-0a20cfbbcade}</Project>
+      <Name>BMICalculatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BMIValueValidatorLib\BMIValueValidatorLib.csproj">
+      <Project>{3038405d-bf72-4bbf-bbf8-4e2ef3d2d2b8}</Project>
+      <Name>BMIValueValidatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleDisplayLib\ConsoleDisplayLib.csproj">
+      <Project>{76c577ee-3b82-468c-a3c9-b41cf7fc3187}</Project>
+      <Name>ConsoleDisplayLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleUserInputReaderLib\ConsoleUserInputReaderLib.csproj">
+      <Project>{3aeae225-4fe6-4412-9c6a-44ad1167bc9f}</Project>
+      <Name>ConsoleUserInputReaderLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PatientDetailsLib\PatientDetailsLib.csproj">
+      <Project>{751d25dd-ba0a-4a93-9509-22458bd02269}</Project>
+      <Name>PatientDetailsLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
