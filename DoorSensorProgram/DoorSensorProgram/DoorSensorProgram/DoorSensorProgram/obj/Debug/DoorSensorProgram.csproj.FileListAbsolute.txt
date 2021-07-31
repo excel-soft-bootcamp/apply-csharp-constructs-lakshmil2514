@@ -1,7 +1,0 @@
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\bin\Debug\DoorSensorProgram.exe.config
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\bin\Debug\DoorSensorProgram.exe
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\bin\Debug\DoorSensorProgram.pdb
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\obj\Debug\DoorSensorProgram.csprojAssemblyReference.cache
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\obj\Debug\DoorSensorProgram.csproj.CoreCompileInputs.cache
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\obj\Debug\DoorSensorProgram.exe
-C:\Users\lakshmi.l\source\repos\DoorSensorProgram\DoorSensorProgram\obj\Debug\DoorSensorProgram.pdb
