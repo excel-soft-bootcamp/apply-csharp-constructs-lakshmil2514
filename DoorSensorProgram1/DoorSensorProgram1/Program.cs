@@ -7,7 +7,7 @@ namespace DoorSensorProgram1
         static void Main(string[] args)
         {
             Security _securitySystem = new Security();
-            DoorPositionHandler doorPositionChangeHandler = new DoorPositionHandler(_securitySystem.Receive);
+            DoorPositionHandler doorPositionChangeHandler = new DoorPositionHandler(_securitySystem.Notify);
 
 
             DoorSensor doorSensor = new DoorSensor();
