@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DoorSensorProgram1/1.0.0": {
+        "runtime": {
+          "DoorSensorProgram1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoorSensorProgram1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

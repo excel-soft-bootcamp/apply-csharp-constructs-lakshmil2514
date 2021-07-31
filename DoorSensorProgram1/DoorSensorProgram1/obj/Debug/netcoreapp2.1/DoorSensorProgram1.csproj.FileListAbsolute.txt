@@ -1,0 +1,12 @@
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\bin\Debug\netcoreapp2.1\DoorSensorProgram1.deps.json
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\bin\Debug\netcoreapp2.1\DoorSensorProgram1.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\bin\Debug\netcoreapp2.1\DoorSensorProgram1.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\bin\Debug\netcoreapp2.1\DoorSensorProgram1.dll
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\bin\Debug\netcoreapp2.1\DoorSensorProgram1.pdb
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.dll
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.pdb
+C:\Users\lakshmi.l\source\repos\DoorSensorProgram1\DoorSensorProgram1\obj\Debug\netcoreapp2.1\DoorSensorProgram1.genruntimeconfig.cache
